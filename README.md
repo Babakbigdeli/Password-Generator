@@ -24,7 +24,7 @@ The application is a password generator that :
 
 	. Babak Bigdeli 
 
-* [Screenshot of weather dashboard](https://github.com/Babakbigdeli/Password-Generator/blob/main/Screenshot.JPG)
+* [Screenshot of Password Generator](https://github.com/Babakbigdeli/Password-Generator/blob/main/Screenshot.JPG)
 * [Link to deployed app] (https://babakbigdeli.github.io/Password-Generator/)
 
 **Babak Bigdeli**
